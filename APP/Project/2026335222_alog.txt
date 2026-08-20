@@ -1,0 +1,30 @@
+[project_search_path]: ./
+[map_search_path]: ./
+[project_file_path]: .//Project.uvprojx
+[ map_file_path]: .//list/APP.map
+[parse_keil_map start]: 
+[Found keyword]: ----------Execution Region----------
+[name]:  ER_IROM1 
+[Exec base]: 0x8011000
+[Size]: 0x6c84
+[Max]: 0x20000
+[Found keyword]: ----------Execution Region----------
+[name]:  RW_IRAM1 
+[Exec base]: 0x20000000
+[Size]: 0x5498
+[Max]: 0x20000
+[Found keyword]: ----------Execution Region----------
+[name]:  ER_IRAM_FUNC 
+[Exec base]: 0x20005498
+[Size]: 0x444
+[Max]: 0xffffffff
+[parse_keil_map over printf bar]: 
+  RW_IRAM1 :0x20000000
+  128.00 KB :|¡ö¡ö¡ö_________________|   16.52 % (   21.15 KB /   128.00 KB) [109416 B]
+  ER_IRAM_FUNC :0x20005498
+  192.00 KB :|____________________|    0.56 % (    1.07 KB /   192.00 KB) [195516 B]
+  ER_IROM1 :0x8011000
+  128.00 KB :|¡ö¡ö¡ö¡ö________________|   21.19 % (   27.13 KB /   128.00 KB) [103292 B]
+[export csv]: ./2026335222_sort_by_flash.csv
+[export csv]: ./2026335222_sort_by_ram.csv
+[export xlsx]: 2026335222_analysis.xlsx

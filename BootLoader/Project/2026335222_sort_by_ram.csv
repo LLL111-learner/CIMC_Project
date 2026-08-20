@@ -1,0 +1,7 @@
+File_name,ram_percent,ram,flash,Code,RO_data,RW_data,ZI_data
+bl_core.o,92.568222%,102411,5640,5452,182,6,102405
+startup_gd32f450_470.o,7.404662%,8192,464,36,428,0,8192
+gd32f4xx_pmu.o,0.014462%,16,280,280,0,0,16
+systick.o,0.007231%,8,144,144,0,0,8
+system_gd32f4xx.o,0.003616%,4,694,690,0,4,0
+usart_app.o,0.001808%,2,204,204,0,0,2
